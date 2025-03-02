@@ -11,9 +11,6 @@ CryptoWallet is an intuitive **cryptocurrency portfolio management app** designe
 - 🔄 **Multi-Currency Support** – Track your portfolio in different fiat currencies.  
 - 🏦 **Transaction History** – Log buy/sell transactions for accurate portfolio valuation.  
 
-## 📷 Screenshots  
-
-*(Include app screenshots here to showcase UI/UX.)*  
 
 ## 🛠️ Installation  
 
