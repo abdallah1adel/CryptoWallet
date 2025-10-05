@@ -1,6 +1,11 @@
 # CryptoWallet  
 
 CryptoWallet is an intuitive **cryptocurrency portfolio management app** designed to help users track and manage their digital assets effortlessly. Whether you're a **seasoned investor** or a **crypto newcomer**, this app provides a seamless experience for **monitoring your portfolio, tracking coin performance, and making informed investment decisions**.  
+### Images
+![Portfolio_Wallet](https://github.com/abdallah1adel/CryptoWallet/blob/main/PPE.png)
+![Home Page_Live prices] (https://github.com/abdallah1adel/CryptoWallet/blob/main/HLP.png)
+![Coin Live_Information](https://github.com/abdallah1adel/CryptoWallet/blob/main/CLP.png)
+![loading Plage](https://github.com/abdallah1adel/CryptoWallet/blob/main/LP.png)
 
 ## 🚀 Features  
 
@@ -10,11 +15,6 @@ CryptoWallet is an intuitive **cryptocurrency portfolio management app** designe
 - 📈 **Market Analysis** – View historical price charts and trends.  
 - 🔄 **Multi-Currency Support** – Track your portfolio in different fiat currencies.  
 - 🏦 **Transaction History** – Log buy/sell transactions for accurate portfolio valuation.  
-### Images
-[Portfolio_Wallet](https://github.com/abdallah1adel/CryptoWallet/blob/main/PPE.png)
-[Home Page_Live prices] (https://github.com/abdallah1adel/CryptoWallet/blob/main/HLP.png)
-[Coin Live_Information](https://github.com/abdallah1adel/CryptoWallet/blob/main/CLP.png)
-[loading Plage](https://github.com/abdallah1adel/CryptoWallet/blob/main/LP.png)
 
 ## 🛠️ Installation  
 
